@@ -1,0 +1,43 @@
+body {
+    font:15px "Century Gothic", Futura, sans-serif;
+    margin: 50px;
+    background-image: url("Literature.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 1000px;
+    background-position-x: 50%;
+    background-position-y: 30%;
+}
+
+.customer-details,.login-details {
+    background: #fff;
+    border: 1px solid #999;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 25px;
+    height: 25px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: left;
+    width: 300px;
+  }
+
+button, input[type="submit"]
+{
+    margin:10px 10px 10px 10px;
+    font: 20px "Century Gothic", Futura, sans-serif;
+}
+  
+.customer-address {
+    background: #fff;
+    border: 1px solid #999;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 100px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: left;
+    width: 300px;
+  }
