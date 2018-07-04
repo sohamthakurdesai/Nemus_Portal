@@ -1,0 +1,5 @@
+{
+    "NOT_AN_ADMIN_ROLE": "- This user is not of an Admin Role.",
+    "USER_NOT_ACTIVE": "- This user is not Active.",
+    "USER_CREATION_FAILED": "User creation failed."
+}

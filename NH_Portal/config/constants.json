@@ -1,0 +1,13 @@
+{
+    "ROLES": {
+        "superadmin": "SuperAdmin",
+        "admin": "Admin",
+        "doctor": "Doctor",
+        "secretary": "Secretary"
+    },
+
+    "STATUS": {
+        "active": "Active",
+        "notactive": "NotActive"
+    }
+}
